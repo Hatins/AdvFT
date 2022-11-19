@@ -54,7 +54,7 @@ Same as DFME, setting the parameters of pt_file and poison at first, and remembe
 ```python
 parser.add_argument('--query_set', type=str, default='F:/Python_Project/Data-Agnostic_DNN_Model_Protection/Knockoff/dataset/Imagenet_100K', help='setting the path of ImageNet')
 ```
-### Drawing the pictures
+### Graph plot and visualization
 #### feature maps
 ```shell
 python AdvFT-master/Draw/feature_map.py
